@@ -3,7 +3,7 @@ pandas==2.2.3
 torch==2.6.0
 pytorch-lightning==2.5.1.post0
 torchmetrics==1.7.1
-transformers==4.51.3
+transformers==5.10.1
 datasets==3.5.0
 huggingface-hub==0.30.2
 wandb==0.19.10
