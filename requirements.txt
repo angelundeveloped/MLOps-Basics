@@ -15,7 +15,7 @@ scikit-learn==1.6.1
 scipy==1.15.2
 joblib==1.4.2
 fsspec==2024.12.0
-filelock==3.18.0
+filelock==4.2.1
 dill==0.3.8
 multiprocess==0.70.16
 xxhash==3.5.0
